@@ -87,7 +87,7 @@
 <h3 align="center">Apple Bank (BBVA)</h3>
 <div align="center">
 <a href="https://github.com/ByEmmanuel/App-Banco" target="_blank">
-	<img src="https://imgur.com/yOQGrwF" width="400" alt="Proyecto Apple Bank"></a>
+	<img src="https://i.imgur.com/YllJzod.png" width="400" alt="Proyecto Apple Bank"></a>
 <p>
 <a href="https://github.com/ByEmmanuel/App-Banco" target="_blank">
 	<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -106,7 +106,7 @@
 <h3 align="center">Hotel Alura</h3>
 <div align="center">                                       
 <a href="Link a github" target="_blank">
-	<img src="https://imgur.com/jkmPBlz" width="400" alt="Hotel Alura"></a>
+	<img src="https://i.imgur.com/i3cSodR.png" width="400" alt="Hotel Alura"></a>
 <br>
 <p>
 <a href="Link a github" target="_blank">
@@ -127,7 +127,8 @@
 <td width="50%">
 <h3 align="center">Conversor de monedas</h3>
 <div align="center">
-<a href="https://github.com/ByEmmanuel/Conversor-De-Monedas" target="_blank"><img src="https://imgur.com/q6mWTuC" width="400" alt="Conversor de monedas"></a>
+<a href="https://github.com/ByEmmanuel/Conversor-De-Monedas" target="_blank">
+	<img src="https://i.imgur.com/o6rTcYO.png" width="400" alt="Conversor de monedas"></a>
 <p>
 <a href="https://imgur.com/q6mWTuC" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -144,7 +145,8 @@
 <td width="50%">
 <h3 align="center">Proyecto Encriptador de texto</h3>
 <div align="center">
-<a href="https://github.com/ByEmmanuel/EncriptadorDeTexto" target="_blank"><img src="https://imgur.com/YI0vzNS" width="400" alt="Encriptador de texto"></a>
+<a href="https://github.com/ByEmmanuel/EncriptadorDeTexto" target="_blank">
+	<img src="https://i.imgur.com/V7fsq8v.png" width="400" alt="Encriptador de texto"></a>
 <p>
 <a href="https://github.com/ByEmmanuel/EncriptadorDeTexto" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
