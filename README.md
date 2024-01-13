@@ -11,18 +11,21 @@
 
 - ⭐ Github Star ⭐ 
 - ☕️ Java developer
-- Apasionado por la programacion 
+- 🏋️‍♀️ Apasionado por la programacion 
 - ✏️ Developer en progreso
 - 🧑‍🏫 Mi Pagina web [Portafolio WEB](byemmanuel.github.io)
 <br>
-
-<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div class="tenor-gif-embed" data-postid="20500368" data-share-method="host" data-aspect-ratio="1" width="100px"><a href="https://tenor.com/view/fujiwara-chika-gif-20500368">
- <img alt="" width="100px" src="https://tenor.com/bybfg.gif"> 
+<div align="center">
+ <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px"   
+ src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <div>
+  <img alt="" height="70px" width="100px"  src="https://tenor.com/bybfg.gif"> 
+ </div>
 </div>
+<div class="tenor-gif-embed" data-postid="20500368" data-share-method="host" data-aspect-ratio="1" width="100px"><a href="https://tenor.com/view/fujiwara-chika-gif-20500368">Fujiwara Chika Sticker</a>from <a href="https://tenor.com/search/fujiwara-stickers">Fujiwara Stickers</a>
+</div> 
 
-https://tenor.com/bybfg.gif
 
 
 <h3 align="center">Languages</h3>
