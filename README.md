@@ -79,4 +79,85 @@
 		<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-a?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black&labelColor=white&color=blue">
 	</a>
 </p
+
+<h3 align="center">🗂️ Proyectos</h3>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Apple Bank (BBVA)</h3>
+<div align="center">
+<a href="https://github.com/ByEmmanuel/App-Banco" target="_blank">
+	<img src="https://imgur.com/yOQGrwF" width="400" alt="Proyecto Apple Bank"></a>
+<p>
+<a href="https://github.com/ByEmmanuel/App-Banco" target="_blank">
+	<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="Link A Youtube" target="_blank">
+	<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>En este proyecto diseñe la aplicacion BBVA desde cero <strong>Incluyendo LOG-IN, Y TRANSACCIONES </strong> - Proyecto en desarrollo <strong>Modelo escalable</strong> y siguiendo buenas practicas para arquitectura de software, patrones de diseño, almacenamiento y encriptacion de contraseñas, <italic>control de las transacciones en proceso </italic> y Mejoras del codigo en proceso. :)</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Hotel Alura</h3>
+<div align="center">                                       
+<a href="Link a github" target="_blank">
+	<img src="https://imgur.com/jkmPBlz" width="400" alt="Hotel Alura"></a>
+<br>
+<p>
+<a href="Link a github" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="Link A Youtube" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>En este proyecto diseño <strong>Un Sistema de hospedaje</strong> para poder Realizar reservas, y los admin tienes herramientas adicionales como aceptar, cancelar, eliminar y agregar nuevas reservas de los clientes, <italic> Ademas, los clientes pueden gestionar y ver los detalles de su reserva</italic> Este proyecto esta terminado, aunque en un futuro me gustaría mejorarlo. </p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Conversor de monedas</h3>
+<div align="center">
+<a href="https://github.com/ByEmmanuel/Conversor-De-Monedas" target="_blank"><img src="https://imgur.com/q6mWTuC" width="400" alt="Conversor de monedas"></a>
+<p>
+<a href="https://imgur.com/q6mWTuC" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="Link A youtube" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Este fue mi primer proyecto en java FX - <strong>Este codigo contiene integracion de inteligencia artificial</strong> - Tambien, contiene codigo de consulta <strong> A una API </strong> </p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Proyecto Encriptador de texto</h3>
+<div align="center">
+<a href="https://github.com/ByEmmanuel/EncriptadorDeTexto" target="_blank"><img src="https://imgur.com/YI0vzNS" width="400" alt="Encriptador de texto"></a>
+<p>
+<a href="https://github.com/ByEmmanuel/EncriptadorDeTexto" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="Link A youtube" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Este fue mi primer proyecto con componentes, en programacion, intentando seguir por primera vez buenas practicas en el desarrollo web. <strong>Este proyecto me lo dejaro de desafio en el curso de ALURA Latam.</strong> Con caracteristicas de encriptacion de palabras unicas.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 	
