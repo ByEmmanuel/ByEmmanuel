@@ -19,21 +19,17 @@
  <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px"   
  src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <div>
+ 
   <img alt="" height="70px" width="100px"  src="https://tenor.com/bybfg.gif"> 
- </div>
+
+ <div class="tenor-gif-embed" data-postid="20500368" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/fujiwara-chika-gif-20500368">Fujiwara Chika Sticker</a>from <a href="https://tenor.com/search/fujiwara-stickers">Fujiwara Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
-<div class="tenor-gif-embed" data-postid="20500368" data-share-method="host" data-aspect-ratio="1" width="100px"><a href="https://tenor.com/view/fujiwara-chika-gif-20500368">Fujiwara Chika Sticker</a>from <a href="https://tenor.com/search/fujiwara-stickers">Fujiwara Stickers</a>
-</div> 
+
 
 
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
@@ -50,3 +46,14 @@
     <img src="https://img.shields.io/badge/Python-python?style=for-the-badge&logo=python&logoColor=%23ECF000&labelColor=white&color=blue&link=www.python.org"
      alt="python"
 </p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+		<a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-a?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black&labelColor=white&color=blue"></a>
+</p
