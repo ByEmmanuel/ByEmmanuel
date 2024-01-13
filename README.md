@@ -44,16 +44,39 @@
   </a>
    <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-python?style=for-the-badge&logo=python&logoColor=%23ECF000&labelColor=white&color=blue&link=www.python.org"
-     alt="python"
+     alt="python"/>
+   </a>
+	<a href="https://www.mysql.com/" target="_blank">
+		<img src="https://img.shields.io/badge/MySQL-a?style=for-the-badge&logo=mySQL&logoColor=black&labelColor=white&color=%233C00FF">
+	</a>
 </p>
 
-### 💻 Software and Tools
 
+<h3 align="center">💻 Software and Tools</h3>
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-		<a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-a?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black&labelColor=white&color=blue"></a>
+    <a href="#">
+		<img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
+	</a>
+    <a href="#">
+		<img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?style=for-the-badge&logo=google-chrome&logoColor=white">
+	</a>
+    <a href="#">
+		<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+	</a>
+    <a href="#">
+		<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+	</a>
+    <a href="#">
+		<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
+    </a>
+    <a href="#">
+		<img alt="Linux" src="https://img.shields.io/badge/Linux-a?style=for-the-badge&logo=Linux&logoColor=black&labelColor=%2380FF00&color=%23ECFF00">
+	</a>
+    <a href="#">
+		<img alt="MacOs" src="https://img.shields.io/badge/MacOS-a?style=for-the-badge&logo=Apple&logoColor=black&labelColor=white&color=black">
+	</a>
+    <a href="#">
+		<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-a?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black&labelColor=white&color=blue">
+	</a>
 </p
+	
