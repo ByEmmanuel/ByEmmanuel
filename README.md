@@ -87,7 +87,7 @@
 <h3 align="center">Apple Bank (BBVA)</h3>
 <div align="center">
 <a href="https://github.com/ByEmmanuel/App-Banco" target="_blank">
-	<img src="https://i.imgur.com/DmbOjZd.jpg" width="400" alt="Proyecto Apple Bank"></a>
+	<img src="https://i.imgur.com/7CaQXYu.jpg" width="400" alt="Proyecto Apple Bank"></a>
 <p>
 <a href="https://github.com/ByEmmanuel/App-Banco" target="_blank">
 	<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
