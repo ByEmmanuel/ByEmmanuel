@@ -20,11 +20,11 @@
  src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-  <img alt="" height="70px" width="100px"  src="https://tenor.com/bybfg.gif"> 
+  
 
-<div class="tenor-gif-embed" data-postid="20500368" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/fujiwara-chika-gif-20500368">Fujiwara Chika Sticker</a>from <a href="https://tenor.com/search/fujiwara-stickers">Fujiwara Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
+ <img alt="" height="70px" width="100px" src="https://tenor.com/view/fujiwara-chika-gif-20500368">
+  
+</div>
 
 
 <h3 align="center">Languages</h3>
