@@ -22,8 +22,7 @@
  
   <img alt="" height="70px" width="100px"  src="https://tenor.com/bybfg.gif"> 
 
- <div class="tenor-gif-embed" data-postid="20500368" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/fujiwara-chika-gif-20500368">Fujiwara Chika Sticker</a>from <a href="https://tenor.com/search/fujiwara-stickers">Fujiwara Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+<div class="tenor-gif-embed" data-postid="20500368" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/fujiwara-chika-gif-20500368">Fujiwara Chika Sticker</a>from <a href="https://tenor.com/search/fujiwara-stickers">Fujiwara Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
