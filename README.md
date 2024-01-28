@@ -18,11 +18,10 @@
 <div align="center">
  <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"> <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px"   
  src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-  
+<img alt="chika" height="70px" width="100px"  src="https://tenor.com/bybfg.gif"> 
 
- <img alt="" height="70px" width="100px" src="https://tenor.com/view/fujiwara-chika-gif-20500368">
+ <img alt="chika2" height="70px" width="100px" src="https://tenor.com/view/fujiwara-chika-gif-20500368">
   
 </div>
 
