@@ -20,7 +20,7 @@
  src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <br>
- <img alt="chika2" height="70px" width="100px" src="https://c.tenor.com/6jF-Xg5Z11YAAAAi/fujiwara-chika.gif">
+ <img alt="chika2" height="100px" width="100px" src="https://c.tenor.com/6jF-Xg5Z11YAAAAi/fujiwara-chika.gif">
   
 </div>
 
