@@ -102,11 +102,11 @@
                <br>
 <h3 align="center">Hotel Alura</h3>
 <div align="center">                                       
-<a href="Link a github" target="_blank">
+<a href="https://github.com/ByEmmanuel/Proyecto-Hotel-Alura" target="_blank">
 	<img src="https://i.imgur.com/i3cSodR.png" width="400" alt="Hotel Alura"></a>
 <br>
 <p>
-<a href="Link a github" target="_blank">
+<a href="https://github.com/ByEmmanuel/Proyecto-Hotel-Alura" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="Link A Youtube" target="_blank">
